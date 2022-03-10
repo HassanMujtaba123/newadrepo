@@ -1,0 +1,13 @@
+.sect1{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.div1{
+    background-color: red;
+    height: 200px;
+    width: 400px;
+    margin: 1%;
+    
+}
